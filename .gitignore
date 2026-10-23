@@ -9,3 +9,4 @@ signing.properties
 *.log
 .idea/
 .private/
+deliverables/
