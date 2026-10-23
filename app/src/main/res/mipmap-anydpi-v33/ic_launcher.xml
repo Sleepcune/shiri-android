@@ -1,0 +1,5 @@
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/shiri_icon_background" />
+    <foreground android:drawable="@drawable/ic_shiri_foreground" />
+    <monochrome android:drawable="@drawable/ic_shiri_monochrome" />
+</adaptive-icon>
